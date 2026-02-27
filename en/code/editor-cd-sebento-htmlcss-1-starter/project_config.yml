@@ -1,0 +1,4 @@
+name: "Bird watch"
+identifier: "editor-cd-sebento-htmlcss-1-starter"
+type: 'html'
+build: true

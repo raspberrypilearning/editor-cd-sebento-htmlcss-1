@@ -1,14 +1,26 @@
-title: Project title in sentence case
+title: Bird watch website
 hero_image: images/banner.png
-description: A short description of the project
+description: Make a unique website and style it with CSS!
 listed: false
+copyedit: false
 pdf: false
 steps:
-  - title: What you will make
-  - title: Step title
-    completion:
-      - engaged      
-  - title: Challenge
-    challenge: true
-    completion:
-      - external
+- title: Step 1
+- title: Step 2
+  completion:
+  - engaged
+- title: Step 3
+- title: Step 4
+- title: Step 5
+- title: Step 6
+- title: Step 7
+- title: Step 8
+- title: Step 9
+- title: Step 10
+- title: Step 11
+- title: Step 12
+- title: Step 13
+- title: Step 14
+  completion:
+  - internal
+  - external

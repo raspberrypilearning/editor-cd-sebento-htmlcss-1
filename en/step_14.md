@@ -24,7 +24,7 @@
 
 --- /task ---
 
-## Add more style to the nav bar
+## Add more style to the nav bar
 
 --- task ---
 

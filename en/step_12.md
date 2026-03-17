@@ -4,7 +4,7 @@ You can create a nav bar with list items for each page.
 
 --- task ---
 
-Open `index.html` and add code to make links to your index page and new page (the new file in this exampleis `conservation.html`).
+Open `index.html` and add code to make links to your index page and new page (the new file in this example is `conservation.html`).
 
 --- /task ---
 
@@ -14,7 +14,7 @@ language: html
 filename: index.html
 line_numbers: true
 line_number_start: 8
-line_highlights: 10-20
+line_highlights: 10-15
 ---
   <body>
     <header>

@@ -20,7 +20,7 @@ Open the style sheet file `styles.css` and add these CSS rules.
 language: css
 filename: styles.css
 line_numbers: false
-line_number_start: 
+line_number_start: 12
 line_highlights:
 ---
 nav ul {

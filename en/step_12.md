@@ -2,11 +2,10 @@
 
 You can create a nav bar with list items for each page.
 
---- task ---
+### Step 1
 
 Open `index.html` and add code to make links to your index page and new page (the new file in this example is `conservation.html`).
 
---- /task ---
 
 --- code ---
 ---
@@ -29,8 +28,6 @@ line_highlights: 10-15
 --- /code ---
 </div>
 
---- task ---
+### Step 2
 
-**Run** your code to see your new nav bar. 
-
---- /task ---
+**Run** your code to see your new nav bar.

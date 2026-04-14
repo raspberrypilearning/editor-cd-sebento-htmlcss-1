@@ -1,10 +1,9 @@
 <h2 class="c-project-heading--task">Style some text</h2>
 
---- task ---
+### Step 1
 
 Add `<em> </em>` and `<strong> </strong>` tags to some of your text.
 
---- /task ---
 
 <div class="c-project-code">
 --- code ---
@@ -26,13 +25,12 @@ line_highlights: 17
 --- /code ---
 </div>
 
---- task ---
+### Step 2
 
 **Run** your code.
 
 - You should see your new text styles.
 
---- /task ---
 
 <div class="c-project-callout c-project-callout--tip">
 

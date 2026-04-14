@@ -4,11 +4,10 @@ Open the image gallery and to see the image files available for you to use in yo
 
 Note the name of one of the image files.
 
---- task ---
+### Step 1
 
 Change the text `barn-owl.jpg` so that it exactly matches the name of the image file you've chosen.
 
---- /task ---
 
 <div class="c-project-code">
 --- code ---
@@ -32,19 +31,17 @@ line_highlights: 21
 --- /code ---
 </div>
 
---- task ---
+### Step 2
 
 **Run** your code.
 
 - Your image should change. 
 
---- /task ---
 
---- task ---
+### Step 3
 
 Add new alt text to correctly describe the new image.
 
---- /task ---
 
 <div class="c-project-callout c-project-callout--tip">
 

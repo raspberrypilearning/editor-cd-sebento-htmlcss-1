@@ -2,7 +2,7 @@
 
 You can style your nav bar using CSS.
 
---- task ---
+### Step 1
 
 Open the style sheet file `styles.css` and add these CSS rules.
 
@@ -12,7 +12,6 @@ Open the style sheet file `styles.css` and add these CSS rules.
   - `display` to make the list horizontal (across) instead of vertical (down)
   - `margin-right` and `margin-left` to space them out.
 
---- /task ---
 
 <div class="c-project-code">
 --- code ---
@@ -37,11 +36,10 @@ nav ul li {
 --- /code ---
 </div>
 
---- task ---
+### Step 2
 
 **Run** your code to see your nav bar. 
 
---- /task ---
 
 <div class="c-project-callout c-project-callout--tip">
 

@@ -2,11 +2,10 @@
 
 For `<h1>` headings, you use the `h1` selector.
 
---- task ---
+### Step 1
 
 Open `index.html` then add an image.
 
---- /task ---
 
 <div class="c-project-code">
 --- code ---
@@ -30,19 +29,17 @@ line_highlights: 21
 --- /code ---
 </div>
 
---- task ---
+### Step 2
 
 **Run** your code.
 
 - Your heading text should be orange now, with the paragraph in purple as before. 
 
---- /task ---
 
---- task ---
+### Step 3
 
 Experiment with different numbers to see what the `width="200px"` attribute does.
 
---- /task ---
 
 <div class="c-project-callout c-project-callout--tip">
 

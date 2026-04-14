@@ -1,10 +1,9 @@
 <h2 class="c-project-heading--task">Code your first website!</h2>
 
---- task ---
+### Step 1
 
 Click **Run** to see a preview of the website you will create.
 
---- /task ---
 
 
 

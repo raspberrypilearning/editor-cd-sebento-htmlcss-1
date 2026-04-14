@@ -1,10 +1,9 @@
 <h2 class="c-project-heading--task">Make a list</h2>
 
---- task ---
+### Step 1
 
 Add a list to your `index.html` file.
 
---- /task ---
 
 <div class="c-project-code">
 --- code ---
@@ -35,19 +34,17 @@ line_highlights: 22-27
 --- /code ---
 </div>
 
---- task ---
+### Step 2
 
 **Run** your code to see your new list. 
 
---- /task ---
 
---- task ---
+### Step 3
 
 This is a list of some protected birds in Ireland. 
 
 Change the items in the list to things that make sense for your website. You could also add a paragraph above the list to describe what it's a list of.
 
---- /task ---
 
 <div class="c-project-callout c-project-callout--tip">
 

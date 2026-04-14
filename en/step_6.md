@@ -1,10 +1,9 @@
 <h2 class="c-project-heading--task">Style the text with CSS</h2>
 
---- task ---
+### Step 1
 
 Set the font family and colour of all text in the `body` of your webpage.
 
---- /task ---
 
 <div class="c-project-code">
 --- code ---
@@ -24,13 +23,12 @@ body {
 --- /code ---
 </div>
 
---- task ---
+### Step 2
 
 **Run** your code.
 
 - Your text style should have changed.
 
---- /task ---
 
 <div class="c-project-callout c-project-callout--tip">
 

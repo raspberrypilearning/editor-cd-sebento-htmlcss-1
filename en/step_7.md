@@ -2,11 +2,10 @@
 
 For `<h1>` headings, you use the `h1` selector.
 
---- task ---
+### Step 1
 
 Add a CSS rule for `h1`.
 
---- /task ---
 
 <div class="c-project-code">
 --- code ---
@@ -31,13 +30,12 @@ h1 {
 --- /code ---
 </div>
 
---- task ---
+### Step 2
 
 **Run** your code.
 
 - Your heading text should be orange now, with the paragraph in purple as before. 
 
---- /task ---
 
 <div class="c-project-callout c-project-callout--tip">
 

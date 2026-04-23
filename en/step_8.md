@@ -2,7 +2,9 @@
 
 For `<h1>` headings, you use the `h1` selector.
 
-### Step 1
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
+
+## Step 1
 
 Open `index.html` then add an image.
 
@@ -29,21 +31,20 @@ line_highlights: 21
 --- /code ---
 </div>
 
-### Step 2
+## Step 2
 
 **Run** your code.
 
-- Your heading text should be orange now, with the paragraph in purple as before. 
+- Your heading text should be orange now, with the paragraph in purple as before.
 
-
-### Step 3
+## Step 3
 
 Experiment with different numbers to see what the `width="200px"` attribute does.
 
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 - Notice that the `<img>` tag is different from the other tags you've used so far — there is no closing `</img>` tag. Instead, this tag is **self-closing**: it has `/>` at the end. This is because there is no 'start' and 'end' to an image element like there is for text on the page. 
 
@@ -52,3 +53,7 @@ The tag contains **attributes** with extra information:
 - The `alt` attribute is a short description that the browser will show if it cannot display the picture. 'alt' is short for 'alternative'. This text also helps people using a screen reader to know what the picture is.
 - The `width` attribute tells the browser how wide to make the picture. `100px` means one hundred **pixels**, which are the tiny dots that make up what you're seeing on your screen. If you don't include this attribute, the picture will be displayed in its original size.
 </div>
+
+## Now run your code
+
+Confirm the observable result.

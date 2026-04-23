@@ -2,7 +2,9 @@
 
 The code that describes what a website looks like is called **CSS**.
 
-### Step 1
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
+
+## Step 1
 
 Open the file `styles.css`, then change the `white` colour to `LightSkyBlue`.
 
@@ -23,8 +25,12 @@ body {
 --- /code ---
 </div>
 
-### Step 2
+## Step 2
 
 **Run** your code.
 
 - Your website should now have a blue background.
+
+## Now run your code
+
+Confirm the observable result.

@@ -1,9 +1,10 @@
 <h2 class="c-project-heading--task">Your own message</h2>
 
-### Step 1
-
 - Change `Hello!` to your own message.
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
+
+## Step 1
 
 <div class="c-project-code">
 --- code ---
@@ -25,8 +26,12 @@ line_highlights: 14
 --- /code ---
 </div>
 
-### Step 2
+## Step 2
 
 **Run** your code.
 
 - You should see your webpage update in the right-hand panel.
+
+## Now run your code
+
+Confirm the observable result.

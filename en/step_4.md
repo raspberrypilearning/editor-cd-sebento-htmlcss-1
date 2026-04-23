@@ -1,9 +1,10 @@
 <h2 class="c-project-heading--task">Style some text</h2>
 
-### Step 1
-
 Add `<em> </em>` and `<strong> </strong>` tags to some of your text.
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
+
+## Step 1
 
 <div class="c-project-code">
 --- code ---
@@ -25,18 +26,22 @@ line_highlights: 17
 --- /code ---
 </div>
 
-### Step 2
+## Step 2
 
 **Run** your code.
 
 - You should see your new text styles.
 
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 - The `<em>` tag emphasises text, which usually appears in italics.
 - The `<strong>` tag highlights important text, which usually appears in bold.
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.

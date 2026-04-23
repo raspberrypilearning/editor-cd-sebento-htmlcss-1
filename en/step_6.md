@@ -1,9 +1,10 @@
 <h2 class="c-project-heading--task">Style the text with CSS</h2>
 
-### Step 1
-
 Set the font family and colour of all text in the `body` of your webpage.
 
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
+
+## Step 1
 
 <div class="c-project-code">
 --- code ---
@@ -23,17 +24,21 @@ body {
 --- /code ---
 </div>
 
-### Step 2
+## Step 2
 
 **Run** your code.
 
 - Your text style should have changed.
 
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 - The `color` property is always for text.
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.

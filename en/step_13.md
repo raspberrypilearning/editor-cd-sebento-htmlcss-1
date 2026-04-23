@@ -2,7 +2,9 @@
 
 You can style your nav bar using CSS.
 
-### Step 1
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
+
+## Step 1
 
 Open the style sheet file `styles.css` and add these CSS rules.
 
@@ -36,17 +38,21 @@ nav ul li {
 --- /code ---
 </div>
 
-### Step 2
+## Step 2
 
 **Run** your code to see your nav bar. 
 
 
-<div class="c-project-callout c-project-callout--tip">
-
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 - `10px` means ten pixels.
 
 - Notice how you used more than one selector? If you used the `ul` selector on its own, the rule would affect all unordered lists on your website. Adding the `nav` selector as well makes it only apply to lists that are in between `nav` tags.
 
 </div>
+
+## Now run your code
+
+Confirm the observable result.

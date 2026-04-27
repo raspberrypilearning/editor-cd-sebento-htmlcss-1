@@ -34,4 +34,4 @@ line_highlights: 14
 
 ## Now run your code
 
-Confirm the observable result.
+Run your code and check that the webpage updates in the preview with your `Hello!` message and paragraph.

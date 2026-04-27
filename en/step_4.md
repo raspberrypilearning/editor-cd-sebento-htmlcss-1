@@ -44,4 +44,4 @@ line_highlights: 17
 
 ## Now run your code
 
-Confirm the observable result.
+Run your code and check that `This website` is italic and `bird conservation` is bold.

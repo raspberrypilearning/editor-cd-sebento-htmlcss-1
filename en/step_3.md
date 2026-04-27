@@ -43,4 +43,4 @@ Experiment with the numbers in your **heading** tags to see the different sizes 
 
 ## Now run your code
 
-Confirm the observable result.
+Run your code and check that `Bird Conservation` now appears as a large heading.

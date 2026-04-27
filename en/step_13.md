@@ -55,4 +55,4 @@ nav ul li {
 
 ## Now run your code
 
-Confirm the observable result.
+Run your code and check that the nav bar has a coloured background and the links sit in a row.

@@ -49,4 +49,4 @@ h1 {
 
 ## Now run your code
 
-Confirm the observable result.
+Run your code and check that the heading is orange while the paragraph stays purple.

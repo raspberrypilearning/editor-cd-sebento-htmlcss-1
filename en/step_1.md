@@ -11,4 +11,4 @@ Click **Run** to see a preview of the website you will create.
 
 ## Now run your code
 
-Confirm the observable result.
+Click **Run** and check that a preview of the finished bird conservation website opens.

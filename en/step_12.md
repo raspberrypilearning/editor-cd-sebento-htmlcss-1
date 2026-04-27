@@ -36,4 +36,4 @@ line_highlights: 10-15
 
 ## Now run your code
 
-Confirm the observable result.
+Run your code and check that a nav bar with `Home` and your new page link appears.

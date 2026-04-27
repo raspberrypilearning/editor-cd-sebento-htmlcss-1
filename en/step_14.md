@@ -53,4 +53,4 @@ Experiment with different colours and numbers of pixels.
 
 ## Now run your code
 
-Confirm the observable result.
+Run your code and check that your extra page, list styling, rounded images, and updated nav bar all appear as you changed them.

@@ -58,4 +58,4 @@ Change the items in the list to things that make sense for your website. You cou
 
 ## Now run your code
 
-Confirm the observable result.
+Run your code and check that the page now shows your new list.

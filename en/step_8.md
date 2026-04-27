@@ -56,4 +56,4 @@ The tag contains **attributes** with extra information:
 
 ## Now run your code
 
-Confirm the observable result.
+Run your code and check that a bird picture appears on the page at the width you chose.

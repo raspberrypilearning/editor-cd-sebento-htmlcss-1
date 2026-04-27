@@ -22,4 +22,4 @@ In between the `<main> </main>` tags in the new file, use the tags you have lear
 
 ## Now run your code
 
-Confirm the observable result.
+Run your code and check that your new page opens and shows the content you added.

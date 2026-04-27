@@ -33,4 +33,4 @@ body {
 
 ## Now run your code
 
-Confirm the observable result.
+Run your code and check that your website now has a light blue background.

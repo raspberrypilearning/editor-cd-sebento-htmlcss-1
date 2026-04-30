@@ -1,12 +1,15 @@
 <h2 class="c-project-heading--task">Make a heading</h2>
 
-When you add text, you put it between two tags that tell your browser how to display your text. For example, the `<p> </p>` tags tell the browser that whatever is in between them is a new paragraph of text, and the `<h1> </h1>` tags tell it that the text is a heading.
+When you add text, you put it between two tags that tell your browser how to display your text.
 
---- task ---
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
+
+## Step 1
+
+For example, the `<p> </p>` tags tell the browser that whatever is in between them is a new paragraph of text, and the `<h1> </h1>` tags tell it that the text is a heading.
 
 Change the `<p>` and `</p>` to `<h1>` and `</h1>`.
 
---- /task ---
 
 <div class="c-project-code">
 --- code ---
@@ -28,16 +31,16 @@ line_highlights: 14
 --- /code ---
 </div>
 
---- task ---
+## Step 2
 
 **Run** your code.
 
 - You should see your message change its style.
 
---- /task ---
-
---- task ---
+## Step 3
 
 Experiment with the numbers in your **heading** tags to see the different sizes they give you. They can go from `<h1>` all the way up to `<h6>`. Remember to change both the opening and closing tag so that they match.
 
---- /task ---
+## Now run your code
+
+Run your code and check that `Bird Conservation` now appears as a large heading.

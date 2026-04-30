@@ -1,25 +1,25 @@
 <h2 class="c-project-heading--task">Add a new page</h2>
 
---- task ---
+Click the `Add file +` button and type a name for your new page.
 
-Click the `Add file +` button and type a name for your new page. It must end in `.html` (including the dot).
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
---- /task ---
+## Step 1
 
---- task ---
+It must end in `.html` (including the dot).
+
+## Step 2
 
 Find the file `template.html` and copy and paste all of the code from it into your new file.
 
---- /task ---
-
---- task ---
+## Step 3
 
 In between the `<main> </main>` tags in the new file, use the tags you have learned about to add stuff to the page, such as paragraphs, headings, images, and lists!
 
---- /task ---
+## Step 4
 
---- task ---
+**Run** your code to see your new page.
 
-**Run** your code to see your new page. 
+## Now run your code
 
---- /task ---
+Run your code and check that your new page opens and shows the content you added.

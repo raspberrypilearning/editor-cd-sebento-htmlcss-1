@@ -2,11 +2,12 @@
 
 The code that describes what a website looks like is called **CSS**.
 
---- task ---
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
+
+## Step 1
 
 Open the file `styles.css`, then change the `white` colour to `LightSkyBlue`.
 
---- /task ---
 
 <div class="c-project-code">
 --- code ---
@@ -24,11 +25,12 @@ body {
 --- /code ---
 </div>
 
---- task ---
+## Step 2
 
 **Run** your code.
 
 - Your website should now have a blue background.
 
---- /task ---
+## Now run your code
 
+Run your code and check that your website now has a light blue background.

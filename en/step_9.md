@@ -2,13 +2,14 @@
 
 Open the image gallery and to see the image files available for you to use in your project.
 
-Note the name of one of the image files.
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
 
---- task ---
+## Step 1
+
+Note the name of one of the image files.
 
 Change the text `barn-owl.jpg` so that it exactly matches the name of the image file you've chosen.
 
---- /task ---
 
 <div class="c-project-code">
 --- code ---
@@ -32,25 +33,26 @@ line_highlights: 21
 --- /code ---
 </div>
 
---- task ---
+## Step 2
 
 **Run** your code.
 
-- Your image should change. 
+- Your image should change.
 
---- /task ---
-
---- task ---
+## Step 3
 
 Add new alt text to correctly describe the new image.
 
---- /task ---
-
-<div class="c-project-callout c-project-callout--tip">
 
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 - You changed the attribute called `src`, which tells the browser which file to display.
 
 - The value you type for an attribute must have quotation marks `""` around it.
 </div>
+
+## Now run your code
+
+Run your code and check that the page now shows your new image.

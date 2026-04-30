@@ -2,11 +2,12 @@
 
 For `<h1>` headings, you use the `h1` selector.
 
---- task ---
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
+
+## Step 1
 
 Add a CSS rule for `h1`.
 
---- /task ---
 
 <div class="c-project-code">
 --- code ---
@@ -31,18 +32,21 @@ h1 {
 --- /code ---
 </div>
 
---- task ---
+## Step 2
 
 **Run** your code.
 
 - Your heading text should be orange now, with the paragraph in purple as before. 
 
---- /task ---
-
-<div class="c-project-callout c-project-callout--tip">
 
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 - You can find some more fonts [here](http://dojo.soy/se-font-families){:target="_blank"}.
 - Experiment with different colour combinations for the text and background. There are lots of colours available to use. Find a full list of them [here](http://dojo.soy/se-color-names){:target="_blank"}.
 </div>
+
+## Now run your code
+
+Run your code and check that the heading is orange while the paragraph stays purple.

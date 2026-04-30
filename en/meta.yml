@@ -4,23 +4,26 @@ description: Make a unique website and style it with CSS!
 listed: false
 copyedit: false
 pdf: false
+landing: true
 steps:
-- title: Step 1
-- title: Step 2
-  completion:
-  - engaged
-- title: Step 3
-- title: Step 4
-- title: Step 5
-- title: Step 6
-- title: Step 7
-- title: Step 8
-- title: Step 9
-- title: Step 10
-- title: Step 11
-- title: Step 12
-- title: Step 13
-- title: Step 14
-  completion:
-  - internal
-  - external
+  - title: Code your first website!
+  - title: Your own message
+    completion:
+      - engaged
+  - title: Make a heading
+  - title: Style some text
+  - title: Style the background with CSS
+  - title: Style the text with CSS
+  - title: Style the heading
+  - title: Add images
+  - title: Change the image
+  - title: Make a list
+  - title: Add a new page
+  - title: Add a nav bar
+    completion:
+      - internal
+  - title: Style your nav bar
+    completion:
+      - external
+  - title: Challenge
+    challenge: true

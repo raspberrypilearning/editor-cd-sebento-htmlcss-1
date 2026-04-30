@@ -2,31 +2,30 @@
 
 ## Add style to your lists
 
---- task ---
+<h2 class="c-project-heading--explainer">Follow these instructions</h2>
+
+## Step 1
 
 - Add **CSS rules** to your stylesheet to change how your lists look.
 
---- /task ---
 
 ## Add another page
 
---- task ---
+## Step 2
 
 - Add a new page following the steps you used earlier.
 
---- /task ---
 
 ## Give your images rounded corners
 
---- task ---
+## Step 3
 
 - In your style sheet, create a new set of rules for pictures using the `img` selector, and add in a `border-radius` rule there.
 
---- /task ---
 
 ## Add more style to the nav bar
 
---- task ---
+## Step 4
 
 - Open the `styles.css` file and add more rules so that it looks like this:
 
@@ -42,13 +41,16 @@
 
 Experiment with different colours and numbers of pixels.  
 
---- /task ---
 
-
-<div class="c-project-callout c-project-callout--tip">
 
 ### Tip
+
+<div class="c-project-callout c-project-callout--tip">
 
 - The `padding` property adds space. Can you work out what each of the other properties do?
  
 </div>
+
+## Now run your code
+
+Run your code and check that your extra page, list styling, rounded images, and updated nav bar all appear as you changed them.

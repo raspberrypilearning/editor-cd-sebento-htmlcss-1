@@ -2,8 +2,6 @@
 
 When you add text, you put it between two tags that tell your browser how to display your text.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 For example, the `<p> </p>` tags tell the browser that whatever is in between them is a new paragraph of text, and the `<h1> </h1>` tags tell it that the text is a heading.

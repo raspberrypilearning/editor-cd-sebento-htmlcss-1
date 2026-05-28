@@ -2,8 +2,6 @@
 
 You can create a nav bar with list items for each page.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 Open `index.html` and add code to make links to your index page and new page (the new file in this example is `conservation.html`).

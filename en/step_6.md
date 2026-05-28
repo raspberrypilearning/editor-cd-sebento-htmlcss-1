@@ -2,8 +2,6 @@
 
 Set the font family and colour of all text in the `body` of your webpage.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 <div class="c-project-code">

@@ -2,8 +2,6 @@
 
 Click the `Add file +` button and type a name for your new page.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 It must end in `.html` (including the dot).

@@ -2,8 +2,6 @@
 
 ## Add style to your lists
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 - Add **CSS rules** to your stylesheet to change how your lists look.

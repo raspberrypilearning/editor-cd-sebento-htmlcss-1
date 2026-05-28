@@ -2,8 +2,6 @@
 
 Open the image gallery and to see the image files available for you to use in your project.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 Note the name of one of the image files.

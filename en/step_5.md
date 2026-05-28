@@ -2,8 +2,6 @@
 
 The code that describes what a website looks like is called **CSS**.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 Open the file `styles.css`, then change the `white` colour to `LightSkyBlue`.

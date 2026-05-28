@@ -2,8 +2,6 @@
 
 You can style your nav bar using CSS.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 Open the style sheet file `styles.css` and add these CSS rules.

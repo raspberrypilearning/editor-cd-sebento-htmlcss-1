@@ -2,8 +2,6 @@
 
 For `<h1>` headings, you use the `h1` selector.
 
-<h2 class="c-project-heading--explainer">Follow these instructions</h2>
-
 ## Step 1
 
 Open `index.html` then add an image.

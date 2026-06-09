@@ -1,6 +1,6 @@
 <h2 class="c-project-heading--task">Change the image</h2>
 
-Open the image gallery and to see the image files available for you to use in your project.
+Open the image gallery to see the image files available for you to use in your project.
 
 ## Step 1
 

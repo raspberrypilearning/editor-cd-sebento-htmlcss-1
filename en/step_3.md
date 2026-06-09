@@ -33,11 +33,11 @@ line_highlights: 14
 
 **Run** your code.
 
-- You should see your message change its style.
+- You should see the style of your message change.
 
 ## Step 3
 
-Experiment with the numbers in your **heading** tags to see the different sizes they give you. They can go from `<h1>` all the way up to `<h6>`. Remember to change both the opening and closing tag so that they match.
+Experiment with the numbers in your **heading** tags to see the different sizes they give you. They can go from `<h1>` all the way to `<h6>`. Remember to change both the opening and closing tag so that they match.
 
 ## Now run your code
 

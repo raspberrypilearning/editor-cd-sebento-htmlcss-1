@@ -26,7 +26,6 @@ line_highlights: 10-15
     </header>
 
 --- /code ---
-</div>
 
 ## Step 2
 

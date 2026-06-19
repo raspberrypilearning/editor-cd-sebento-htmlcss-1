@@ -36,7 +36,7 @@ line_highlights: 21
 
 Run your code and check that the page now shows your new image.
 
-## Step 3
+## Step 2
 
 Add new alt text to correctly describe the new image.
 

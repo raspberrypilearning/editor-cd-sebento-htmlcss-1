@@ -32,7 +32,7 @@ line_highlights: 21
 
 Run your code and check that a bird picture appears on the page at the width you chose.
 
-## Step 3
+## Step 2
 
 Experiment with different numbers to see what the `width="200px"` attribute does.
 

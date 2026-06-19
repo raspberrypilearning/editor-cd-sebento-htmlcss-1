@@ -33,9 +33,10 @@ line_highlights: 22-27
 --- /code ---
 </div>
 
-## Step 2
 
-**Run** your code to see your new list.
+## Now run your code
+
+Run your code and check that the page now shows your new list.
 
 ## Step 3
 
@@ -54,6 +55,3 @@ Change the items in the list to things that make sense for your website. You cou
  
 </div>
 
-## Now run your code
-
-Run your code and check that the page now shows your new list.

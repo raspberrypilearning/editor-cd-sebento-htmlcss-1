@@ -36,9 +36,9 @@ nav ul li {
 --- /code ---
 </div>
 
-## Step 2
+## Now run your code
 
-**Run** your code to see your nav bar. 
+Run your code and check that the nav bar has a coloured background and the links sit in a row.
 
 
 ### Tip
@@ -51,6 +51,4 @@ nav ul li {
 
 </div>
 
-## Now run your code
 
-Run your code and check that the nav bar has a coloured background and the links sit in a row.

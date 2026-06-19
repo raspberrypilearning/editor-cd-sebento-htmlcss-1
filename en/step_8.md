@@ -29,11 +29,10 @@ line_highlights: 21
 --- /code ---
 </div>
 
-## Step 2
 
-**Run** your code.
+## Now run your code
 
-- Your heading text should be orange now, with the paragraph in purple as before.
+Run your code and check that a bird picture appears on the page at the width you chose.
 
 ## Step 3
 
@@ -52,6 +51,3 @@ The tag contains **attributes** with extra information:
 - The `width` attribute tells the browser how wide to make the picture. `100px` means one hundred **pixels**, which are the tiny dots that make up what you're seeing on your screen. If you don't include this attribute, the picture will be displayed in its original size.
 </div>
 
-## Now run your code
-
-Run your code and check that a bird picture appears on the page at the width you chose.

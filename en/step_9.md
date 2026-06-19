@@ -31,11 +31,10 @@ line_highlights: 21
 --- /code ---
 </div>
 
-## Step 2
 
-**Run** your code.
+## Now run your code
 
-- Your image should change.
+Run your code and check that the page now shows your new image.
 
 ## Step 3
 
@@ -51,6 +50,3 @@ Add new alt text to correctly describe the new image.
 - The value you type for an attribute must have quotation marks `""` around it.
 </div>
 
-## Now run your code
-
-Run your code and check that the page now shows your new image.

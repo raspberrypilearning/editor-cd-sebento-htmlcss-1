@@ -24,11 +24,9 @@ line_highlights: 17
 --- /code ---
 </div>
 
-## Step 2
+## Now run your code
 
-**Run** your code.
-
-- You should see your new text styles.
+Run your code and check that `This website` is italic and `bird conservation` is bold.
 
 
 ### Tip
@@ -39,7 +37,3 @@ line_highlights: 17
 - The `<strong>` tag highlights important text, which usually appears in bold.
 
 </div>
-
-## Now run your code
-
-Run your code and check that `This website` is italic and `bird conservation` is bold.

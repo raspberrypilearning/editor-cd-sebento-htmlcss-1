@@ -30,11 +30,10 @@ h1 {
 --- /code ---
 </div>
 
-## Step 2
+## Now run your code
 
-**Run** your code.
+Run your code and check that the heading is orange while the paragraph stays purple.
 
-- Your heading text should be orange now, with the paragraph in purple as before. 
 
 
 ### Tip
@@ -45,6 +44,3 @@ h1 {
 - Experiment with different colour combinations for the text and background. There are lots of colours available to use. Find a full list of them [here](http://dojo.soy/se-color-names){:target="_blank"}.
 </div>
 
-## Now run your code
-
-Run your code and check that the heading is orange while the paragraph stays purple.

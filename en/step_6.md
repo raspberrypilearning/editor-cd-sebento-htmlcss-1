@@ -22,11 +22,9 @@ body {
 --- /code ---
 </div>
 
-## Step 2
+## Now run your code
 
-**Run** your code.
-
-- Your text style should have changed.
+Run your code and check that the paragraph text is purple and uses the new font.
 
 
 ### Tip
@@ -37,6 +35,4 @@ body {
 
 </div>
 
-## Now run your code
 
-Run your code and check that the paragraph text is purple and uses the new font.

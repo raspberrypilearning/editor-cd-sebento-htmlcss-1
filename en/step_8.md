@@ -1,7 +1,5 @@
 <h2 class="c-project-heading--task">Add images</h2>
 
-For `<h1>` headings, you use the `h1` selector.
-
 ## Step 1
 
 Open `index.html` then add an image.

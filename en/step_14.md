@@ -4,7 +4,7 @@
 
 ## Step 1
 
-- Add **CSS rules** to your stylesheet to change how your lists look.
+- Add **CSS rules** to your style sheet to change how your lists look.
 
 
 ## Add another page
@@ -40,6 +40,9 @@
 Experiment with different colours and numbers of pixels.  
 
 
+## Now run your code
+
+Run your code and check that your extra page, list styling, rounded images, and updated nav bar all appear as you set them.
 
 ### Tip
 
@@ -49,6 +52,3 @@ Experiment with different colours and numbers of pixels.
  
 </div>
 
-## Now run your code
-
-Run your code and check that your extra page, list styling, rounded images, and updated nav bar all appear as you changed them.

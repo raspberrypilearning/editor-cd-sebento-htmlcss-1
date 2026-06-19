@@ -23,12 +23,7 @@ body {
 --- /code ---
 </div>
 
-## Step 2
-
-**Run** your code.
-
-- Your website should now have a blue background.
-
 ## Now run your code
 
 Run your code and check that your website now has a light blue background.
+

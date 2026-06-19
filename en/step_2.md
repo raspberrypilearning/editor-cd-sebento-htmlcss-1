@@ -24,12 +24,6 @@ line_highlights: 14
 --- /code ---
 </div>
 
-## Step 2
-
-**Run** your code.
-
-- You should see your webpage update in the right-hand panel.
-
 ## Now run your code
 
-Run your code and check that the webpage updates in the preview with your `Hello!` message and paragraph.
+- You should see your webpage update in the right-hand panel.

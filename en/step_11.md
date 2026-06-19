@@ -14,10 +14,8 @@ Find the file `template.html` and copy and paste all of the code from it into yo
 
 In between the `<main> </main>` tags in the new file, use the tags you have learned about to add stuff to the page, such as paragraphs, headings, images, and lists!
 
-## Step 4
-
-**Run** your code to see your new page.
-
 ## Now run your code
 
 Run your code and check that your new page opens and shows the content you added.
+
+

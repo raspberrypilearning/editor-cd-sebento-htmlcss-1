@@ -26,12 +26,9 @@ line_highlights: 10-15
     </header>
 
 --- /code ---
-</div>
-
-## Step 2
-
-**Run** your code to see your new nav bar.
 
 ## Now run your code
 
 Run your code and check that a nav bar with `Home` and your new page link appears.
+
+

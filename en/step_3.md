@@ -34,7 +34,7 @@ line_highlights: 14
 Run your code and check that `Bird Conservation` now appears as a large heading.
 
 
-## Step 3
+## Step 2
 
 Experiment with the numbers in your **heading** tags to see the different sizes they give you. They can go from `<h1>` all the way to `<h6>`. Remember to change both the opening and closing tag so that they match.
 

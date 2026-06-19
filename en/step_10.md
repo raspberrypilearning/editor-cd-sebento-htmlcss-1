@@ -38,7 +38,7 @@ line_highlights: 22-27
 
 Run your code and check that the page now shows your new list.
 
-## Step 3
+## Step 2
 
 This is a list of some protected birds in Ireland. 
 

@@ -1,4 +1,4 @@
-<h2 class="c-project-heading--task">Make a heading</h2>
+## Make a heading
 
 When you add text, you put it between two tags that tell your browser how to display your text.
 
@@ -9,15 +9,7 @@ For example, the `<p> </p>` tags tell the browser that whatever is in between th
 Change the `<p>` and `</p>` to `<h1>` and `</h1>`.
 
 
-<div class="c-project-code">
---- code ---
----
-language: html
-filename: index.html
-line_numbers: true
-line_number_start: 12
-line_highlights: 14
----
+```html filename="index.html" line_numbers="true" line_number_start="12" line_highlights="14"
 	  <main>
 	    
 	    <h1>Bird Conservation</h1>
@@ -26,8 +18,7 @@ line_highlights: 14
 	      This website is about bird conservation.
 	    </p>
 
---- /code ---
-</div>
+```
 
 ## Now run your code
 

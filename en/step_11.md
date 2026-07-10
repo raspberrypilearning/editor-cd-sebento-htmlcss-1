@@ -1,4 +1,4 @@
-<h2 class="c-project-heading--task">Add a new page</h2>
+## Add a new page
 
 Click the `Add file +` button and type a name for your new page.
 

@@ -1,18 +1,10 @@
-<h2 class="c-project-heading--task">Make a list</h2>
+## Make a list
 
 Add a list to your `index.html` file.
 
 ## Step 1
 
-<div class="c-project-code">
---- code ---
----
-language: html
-filename: index.html
-line_numbers: true
-line_number_start: 12
-line_highlights: 22-27
----
+```html filename="index.html" line_numbers="true" line_number_start="12" line_highlights="22-27"
 	  <main>
 	    
 	    <h1>Bird Conservation</h1>
@@ -30,9 +22,7 @@ line_highlights: 22-27
         <li>Curlew</li>
       </ul>
 
---- /code ---
-</div>
-
+```
 
 ## Now run your code
 
@@ -40,18 +30,13 @@ Run your code and check that the page now shows your new list.
 
 ## Step 2
 
-This is a list of some protected birds in Ireland. 
+This is a list of some protected birds in Ireland.
 
 Change the items in the list to things that make sense for your website. You could also add a paragraph above the list to describe what it's a list of.
 
-
-### Tip
-
-<div class="c-project-callout c-project-callout--tip">
-
-- Notice that there is a separate pair of `<li> </li>` tags around each item in the list. 
-
-- If you wanted a numbered list, you use `<ol>`, instead of `<ul>`. A numbered list is also called an **ordered** list.
- 
-</div>
+> [!TIP]
+>
+> - Notice that there is a separate pair of `<li> </li>` tags around each item in the list.
+>
+> - If you wanted a numbered list, you use `<ol>` instead of `<ul>`. A numbered list is also called an **ordered** list.
 
